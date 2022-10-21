@@ -78,9 +78,6 @@ body{
         padding: 0 0.75rem 1.5rem 0.75rem;
       }
 
-      span{
-        font-weight: normal;
-      }
 
       span[class~="sr-only"] {
         border: 0 !important;
