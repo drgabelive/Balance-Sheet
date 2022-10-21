@@ -96,7 +96,10 @@ body{
         margin: -1px!important;
       }
 
-
+      table{
+        border-collapse: collapse;
+        border: 0;
+      }
 
 
 
