@@ -137,3 +137,7 @@ body{
             text-align: right;
             padding: 0 0.25rem;
           }
+
+          tr.total td:nth-of-type(3) {
+            padding: 0.5rem;
+          }
